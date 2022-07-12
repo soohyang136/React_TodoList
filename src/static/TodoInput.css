@@ -1,0 +1,36 @@
+.create{
+    display: flex;
+    flex-direction: column;
+}
+
+.Input{
+    background-color: #e8fdef;
+    height: 60px;   
+    border: solid 1px gray;
+    border-radius: 10px;
+    padding-left: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.Input::placeholder{
+    color: #cfcfcf;
+}
+
+.Button{
+    margin-top: 10px;
+    width: 200px;
+    height: 70px;
+    background-color: #03a9f4;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 30px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}

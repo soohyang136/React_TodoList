@@ -1,0 +1,44 @@
+.listtitle{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.todolist{
+    margin-top: 80px;
+}
+.list{
+    display: flex;
+    align-items: center;
+    border: solid 1px gray;
+    border-radius: 10px;
+    height: 80px;
+    margin-top: 20px;
+}
+
+.fin{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    width: 60px;
+}
+
+.cont{
+    margin-left: 50px;
+    width: 300px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.check{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    border: solid 1px gray;
+    border-radius: 20px;
+}
+
+.delete{
+    font-size: small;
+    color: red;
+    margin-left: 700px;
+}
